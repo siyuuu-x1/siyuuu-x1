@@ -14,7 +14,7 @@
 
 # 💫 About Me:
 ---
-* 🔭 **Current Project:** Enhancing the core features of **Goatbot** for peak performance.
+* telescope **Current Project:** Enhancing the core features of **Goatbot** for peak performance.
 * 👯 **Collaboration:** Open for innovative Open Source bot projects and AI integrations.
 * 🤝 **Help Needed:** Seeking expertise in advanced API scaling and server optimization.
 * 🌱 **Learning Path:** Deep diving into backend architectures and cloud technologies.
@@ -27,13 +27,15 @@
 ## 🌐 Socials:
 ---
 * [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/share/1ZDHWLyTaB/)
-* [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/siyuu_0.01?igsh=Mzg0MzMwYm40dWhw)
-* [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)](https://www.tiktok.com/@crush_boy_0.1?_r=1&_t=ZS-96IP6r66ypj)
+* [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/@siyuu_0.01)
+* [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)](https://tiktok.com/@crush_boy_0.1)
 * [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:siyamshah2255@gmail.com)
 
 # 💻 Tech Stack:
 ---
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+<div align="center">
+  <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/fp/assets/dark-skills.svg" width="400" />
+</div>
 
 # 📊 GitHub Stats:
 ---
@@ -59,7 +61,7 @@
 ### ✍️ Random Dev Quote
 ---
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=First,%20solve%20the%20problem.%20Then,%20write%20the%20code.&author=SHAHARIYA_AHMED_SIYAM%20(SIYUU)" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=First,%20solve%20the%20problem.%20Then,%20write%20the%20code.&author=John%20Johnson" />
 </p>
 
 ---
