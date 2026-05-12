@@ -1,30 +1,74 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a1a2e,100:ffd700&height=200&section=header&text=SIYUUUUUUUU&fontSize=70&fontColor=ffd700&fontAlignY=38&desc=AI%20Developer%20%7C%20Chatbot%20Engineer%20%7C%20Automation%20Specialist&descAlignY=58&descColor=ffffff&animation=fadeIn" width="100%"/>
+</p>
 
--->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=Building+the+Future+with+Goatbot;AI+and+Automation+Enthusiast;Full-Stack+Bot+Developer" />
+  </a>
+</p>
+
+<div align="center">
+  <img src="https://files.catbox.moe/mgb7ob.jpg" width="100%" />
+</div>
+
 # 💫 About Me:
-🔭 I’m currently working on enhancing the core features of Goatbot for better performance.<br>👯 I’m looking to collaborate on innovative Open Source bot projects and AI integrations.<br>🤝 I’m looking for help with advanced API scaling and optimizing server-side response times.<br>🌱 I’m currently learning deep backend architectures and cloud-native technologies.<br>💬 Ask me about Node.js, Bot development, or how to build scalable automation tools.<br>⚡ Fun fact: I write more lines of code in a night than I speak words in a day!<br>💻 Technical Goal: Making Goatbot the most user-friendly and powerful tool in its niche.<br>🚀 Mission: Bridging the gap between complex technology and everyday user convenience.<br>📫 How to reach me: Feel free to ping me for any tech collaboration or Goatbot queries!
-
+---
+* 🔭 **Current Project:** Enhancing the core features of **Goatbot** for peak performance.
+* 👯 **Collaboration:** Open for innovative Open Source bot projects and AI integrations.
+* 🤝 **Help Needed:** Seeking expertise in advanced API scaling and server optimization.
+* 🌱 **Learning Path:** Deep diving into backend architectures and cloud technologies.
+* 💬 **Talk to me about:** Node.js, Bot development, and scalable automation.
+* ⚡ **Fun Fact:** My code usually runs faster than my coffee disappears.
+* 💻 **Tech Goal:** Making **Goatbot** the gold standard in its niche.
+* 🚀 **Mission:** Turning complex technology into simple, everyday tools.
+* 📫 **Contact:** Feel free to ping me for tech collaborations or Goatbot queries!
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/share/1ZDHWLyTaB/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@siyuu_0.01) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@crush_boy_0.1) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:siyamshah2255@gmail.com) 
+---
+* [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/share/1ZDHWLyTaB/)
+* [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/siyuu_0.01?igsh=Mzg0MzMwYm40dWhw)
+* [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)](https://www.tiktok.com/@crush_boy_0.1?_r=1&_t=ZS-96IP6r66ypj)
+* [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:siyamshah2255@gmail.com)
 
 # 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![ReScript](https://img.shields.io/badge/rescript-%2314162c?style=for-the-badge&logo=rescript&logoColor=e34c4c) ![Glitch](https://img.shields.io/badge/glitch-%233333FF.svg?style=for-the-badge&logo=glitch&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![Nuxt JS](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxt.js&logoColor=#00DC82) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Affinity Designer](https://img.shields.io/badge/affinity%20desginer-%231B72BE.svg?style=for-the-badge&logo=affinity-designer&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Sentry](https://img.shields.io/badge/sentry-%23362D59.svg?style=for-the-badge&logo=sentry&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+---
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+
 # 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=siyuuu-x1&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=siyuuu-x1&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=siyuuu-x1&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+---
+<p align="center">
+<img src="https://github-readme-stats.shion.dev/api?username=siyuuu-x1&theme=dark&hide_border=false&include_all_commits=true&count_private=false" />
+<img src="https://streak-stats.demolab.com/?user=siyuuu-x1&theme=dark&hide_border=false" />
+</p>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=siyuuu-x1&theme=algolia&no-frame=true&no-bg=false&margin-w=4)
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=siyuuu-x1&theme=algolia&no-frame=true&no-bg=false&margin-w=4" />
+</p>
+
+<h3 align="center">🐍 Contribution Snake</h3>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+    <img alt="snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=siyuuu-x1&limit=5&theme=buefy&combine_all_yearly_contributions=true)
+---
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=First,%20solve%20the%20problem.%20Then,%20write%20the%20code.&author=SHAHARIYA_AHMED_SIYAM%20(SIYUU)" />
+</p>
 
 ---
-[![](https://komarev.com/ghpvc/?username=siyuuu-x1&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 👁️ Profile Views
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=siyuuu-x1&label=Profile%20Views&color=00C6FF&style=for-the-badge"/>
+</div>
+
+<br />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,100:7F00FF&height=120&section=footer"/>
