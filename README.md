@@ -27,8 +27,8 @@
 ## 🌐 Socials:
 ---
 * [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/share/1ZDHWLyTaB/)
-* [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/@siyuu_0.01)
-* [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)](https://tiktok.com/@crush_boy_0.1)
+* [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/siyuu_0.01?igsh=Mzg0MzMwYm40dWhw)
+* [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)](https://www.tiktok.com/@crush_boy_0.1?_r=1&_t=ZS-96IQulIki2C)
 * [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:siyamshah2255@gmail.com)
 
 # 💻 Tech Stack:
@@ -58,10 +58,10 @@
   </picture>
 </div>
 
-### ✍️ Random Dev Quote
+### ✍️ 
 ---
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=First,%20solve%20the%20problem.%20Then,%20write%20the%20code.&author=John%20Johnson" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=First,%20solve%20the%20problem.%20Then,%20write%20the%20code.&author=SHAHARIYA_AHMED_SIYAM%20(SIYUU)" />
 </p>
 
 ---
