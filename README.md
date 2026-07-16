@@ -9,7 +9,7 @@
 </p>
 
 <div align="center">
-  <img src="https://files.catbox.moe/mgb7ob.jpg" width="100%" />
+  <img src="https://files.catbox.moe/7w05x3.jpg" width="100%" />
 </div>
 
 # 💫 About Me:
